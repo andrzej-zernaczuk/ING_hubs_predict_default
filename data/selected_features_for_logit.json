@@ -1,0 +1,29 @@
+{
+  "selected_features": [
+    "Var_02",
+    "Var_28",
+    "Var_04",
+    "Var_15",
+    "Var_35",
+    "Var_05",
+    "Var_06_missing_flag",
+    "Var_07"
+  ],
+  "selected_features_readable": [
+    "Assets Total",
+    "Return On Total Equity Reserve",
+    "Current Ratio",
+    "Gross Profit Margin",
+    "Total Liabilities Total Assets",
+    "Debt Net Worth",
+    "Depreciation And Impairment (missing flag)",
+    "EBITDA Margin"
+  ],
+  "settings": {
+    "corr_threshold": 0.7,
+    "vif_threshold": 10.0,
+    "iv_min": 0.02,
+    "final_features_min": 8,
+    "final_features_max": 15
+  }
+}

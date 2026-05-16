@@ -4,4 +4,15 @@ version = "0.1.0"
 description = "Project aims to predict defaults of companies within next 12 months."
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "notebook>=7.5.6",
+    "numpy>=2.4.5",
+    "optbinning>=0.20.0",
+    "ortools<9.15",
+    "pandas>=3.0.3",
+    "scikit-learn<1.8",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+]

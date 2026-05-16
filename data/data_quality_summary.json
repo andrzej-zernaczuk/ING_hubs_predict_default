@@ -1,0 +1,17 @@
+{
+  "total_rows": 148929,
+  "total_columns": 42,
+  "duplicate_rows": 0,
+  "duplicate_rows_pct": 0.0,
+  "duplicate_id_obs_date_rows": 0,
+  "rows_with_any_missing": 40221,
+  "rows_with_any_missing_pct": 27.006828757327316,
+  "missing_cells": 70732,
+  "missing_cells_pct": 1.1308041000041886,
+  "obs_date_min": "2015-01-01",
+  "obs_date_max": "2021-12-31",
+  "default_distribution": {
+    "0": 140180,
+    "1": 8749
+  }
+}
