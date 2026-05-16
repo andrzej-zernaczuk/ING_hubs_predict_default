@@ -1,0 +1,7 @@
+[project]
+name = "ing-hubs-predict-default"
+version = "0.1.0"
+description = "Project aims to predict defaults of companies within next 12 months."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
