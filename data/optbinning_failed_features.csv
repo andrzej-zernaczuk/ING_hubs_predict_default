@@ -1,16 +1,6 @@
 feature,feature_name,error
-Var_23,Net Profit Margin,"__radd__(): incompatible function arguments. The following argument types are supported:
+Var_13,Financial Leverage,"__radd__(): incompatible function arguments. The following argument types are supported:
     1. (self: object, cst: int) -> ortools.sat.python.cp_model_helper.LinearExpr
     2. (self: object, cst: float) -> ortools.sat.python.cp_model_helper.LinearExpr
 
-Invoked with: SumArray(IntAffine(expr=x[7, 0](0..1), coeff=-4507, offset=0), IntAffine(expr=x[7, 1](0..1), coeff=-3596, offset=0), IntAffine(expr=x[7, 2](0..1), coeff=2012, offset=0), IntAffine(expr=x[7, 3](0..1), coeff=3350, offset=0), IntAffine(expr=x[7, 4](0..1), coeff=209, offset=0), IntAffine(expr=x[7, 5](0..1), coeff=1581, offset=0), IntAffine(expr=x[7, 6](0..1), coeff=1070, offset=0)), IntConstant(0)"
-Var_27,Return On Assets,"__radd__(): incompatible function arguments. The following argument types are supported:
-    1. (self: object, cst: int) -> ortools.sat.python.cp_model_helper.LinearExpr
-    2. (self: object, cst: float) -> ortools.sat.python.cp_model_helper.LinearExpr
-
-Invoked with: SumArray(IntAffine(expr=x[8, 0](0..1), coeff=4062, offset=0), IntAffine(expr=x[8, 1](0..1), coeff=9075, offset=0), IntAffine(expr=x[8, 2](0..1), coeff=8672, offset=0), IntAffine(expr=x[8, 3](0..1), coeff=7323, offset=0), IntAffine(expr=x[8, 4](0..1), coeff=3261, offset=0), IntAffine(expr=x[8, 5](0..1), coeff=367, offset=0), IntAffine(expr=x[8, 6](0..1), coeff=1951, offset=0), IntAffine(expr=x[8, 7](0..1), coeff=1006, offset=0)), IntConstant(0)"
-Var_33,Senior Net Debt EBITDA,"__radd__(): incompatible function arguments. The following argument types are supported:
-    1. (self: object, cst: int) -> ortools.sat.python.cp_model_helper.LinearExpr
-    2. (self: object, cst: float) -> ortools.sat.python.cp_model_helper.LinearExpr
-
-Invoked with: SumArray(IntAffine(expr=x[12, 0](0..1), coeff=-6037, offset=0), IntAffine(expr=x[12, 1](0..1), coeff=-3114, offset=0), IntAffine(expr=x[12, 2](0..1), coeff=2403, offset=0), IntAffine(expr=x[12, 3](0..1), coeff=4836, offset=0), IntAffine(expr=x[12, 4](0..1), coeff=3026, offset=0), IntAffine(expr=x[12, 5](0..1), coeff=-773, offset=0), IntAffine(expr=x[12, 6](0..1), coeff=1583, offset=0), IntAffine(expr=x[12, 7](0..1), coeff=1014, offset=0), IntAffine(expr=x[12, 8](0..1), coeff=-204, offset=0), IntAffine(expr=x[12, 9](0..1), coeff=192, offset=0), IntAffine(expr=x[12, 10](0..1), coeff=-284, offset=0), IntAffine(expr=x[12, 11](0..1), coeff=362, offset=0)), IntConstant(0)"
+Invoked with: SumArray(IntAffine(expr=x[6, 0](0..1), coeff=-12769, offset=0), IntAffine(expr=x[6, 1](0..1), coeff=10385, offset=0), IntAffine(expr=x[6, 2](0..1), coeff=4831, offset=0), IntAffine(expr=x[6, 3](0..1), coeff=7429, offset=0), IntAffine(expr=x[6, 4](0..1), coeff=389, offset=0), IntAffine(expr=x[6, 5](0..1), coeff=2168, offset=0)), IntConstant(0)"

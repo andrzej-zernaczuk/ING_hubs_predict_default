@@ -1,48 +1,41 @@
 feature,vif,feature_name
-Var_26,9.827070804234543,Receivables Current
-Var_21,8.551749405692458,Liabilities Current Total
-Var_20,6.3130419531874695,Interest Expense
-Var_02_missing_flag,6.202880280553055,Assets Total (missing flag)
-Var_12_missing_flag,5.869921307428572,Equity And Reserves (missing flag)
-Var_11_missing_flag,5.320179603690785,Equity And Liabilities Total (missing flag)
-Var_34_missing_flag,5.271399149460535,Tangible Net Worth (missing flag)
-Var_39,5.021854622267372,Working Capital
-Var_36,4.750762589391255,Total Net Debt
-Var_17,4.7041734788339715,IFRS_Assets Non Current Total
-Var_06,4.666834725988628,Depreciation And Impairment
-Var_39_missing_flag,4.619581580507806,Working Capital (missing flag)
-Var_29,4.544590928793359,Revenues
-Var_31_missing_flag,4.343312068831196,Sales Total Assets (missing flag)
-Var_03,4.321046600570529,Cash And Cash Equivalents
-Var_16_missing_flag,4.07436347201138,IFRS_Assets Current Total (missing flag)
-Var_02,3.955705799393403,Assets Total
-Var_27_missing_flag,3.7450802125198273,Return On Assets (missing flag)
-Var_34,3.7420444831333515,Tangible Net Worth
-Var_24,3.6243784442315414,Profit Loss Before Tax
-Var_09_missing_flag,3.595616847929653,Earnings Before Interest Tax And Depreciation (missing flag)
-Var_29_missing_flag,3.3320217441827693,Revenues (missing flag)
-Var_13,3.252204703201163,Financial Leverage
-Var_05,3.2224845842590373,Debt Net Worth
-Var_35_missing_flag,3.0082613880914533,Total Liabilities Total Assets (missing flag)
-Var_14_missing_flag,2.7490155729852166,Gross Profit (missing flag)
-Var_08_missing_flag,2.630047760654221,Earnings Before Interest And Tax (missing flag)
-Var_21_missing_flag,2.507586580099553,Liabilities Current Total (missing flag)
-Var_24_missing_flag,2.504824991423841,Profit Loss Before Tax (missing flag)
-Var_13_missing_flag,2.1387012121902624,Financial Leverage (missing flag)
-Var_37_missing_flag,1.787903114200256,Total Net Debt EBITDA (missing flag)
-Var_30_missing_flag,1.7284376677245732,Sales Excluding VAT (missing flag)
-Var_03_missing_flag,1.4050843963701207,Cash And Cash Equivalents (missing flag)
-Var_26_missing_flag,1.2934288070920255,Receivables Current (missing flag)
-Var_17_missing_flag,1.235180203649101,IFRS_Assets Non Current Total (missing flag)
-Var_06_missing_flag,1.2157900479099006,Depreciation And Impairment (missing flag)
-Var_38_missing_flag,1.162307070348693,Trade And Other Payables Current (missing flag)
-Var_27,1.0688876145526944,Return On Assets
-Var_23,1.0464063174300764,Net Profit Margin
-Var_07,1.04624608428606,EBITDA Margin
-Var_20_missing_flag,1.0347320224889254,Interest Expense (missing flag)
-Var_28,1.0247074049720921,Return On Total Equity Reserve
-Var_35,1.003476271312773,Total Liabilities Total Assets
-Var_33,1.0011199156760533,Senior Net Debt EBITDA
-Var_15,1.0003035052204619,Gross Profit Margin
-Var_04,1.0001348826953433,Current Ratio
-Var_28_missing_flag,0.9879255142813089,Return On Total Equity Reserve (missing flag)
+Var_26,6.698126142903219,Receivables Current
+Var_20,6.661394426926664,Interest Expense
+Var_31_missing_flag,4.881216204825077,Sales Total Assets (missing flag)
+Var_12_missing_flag,4.457592542077287,Equity And Reserves (missing flag)
+Var_39_missing_flag,4.361131232888203,Working Capital (missing flag)
+Var_10_missing_flag,4.184196897723643,Eff Tang Net Worth Actual (missing flag)
+Var_27_missing_flag,4.145470163210156,Return On Assets (missing flag)
+Var_39,3.897223181151913,Working Capital
+Var_06,3.896492477809335,Depreciation And Impairment
+Var_09_missing_flag,3.86962445624533,Earnings Before Interest Tax And Depreciation (missing flag)
+Var_01_missing_flag,3.8579871279264037,Assets Current Total (missing flag)
+Var_03,3.6863536464686075,Cash And Cash Equivalents
+Var_21,3.611751850662024,Liabilities Current Total
+Var_08_missing_flag,3.1942399626197755,Earnings Before Interest And Tax (missing flag)
+Var_24_missing_flag,3.1176223357162334,Profit Loss Before Tax (missing flag)
+Var_35_missing_flag,2.945893542819102,Total Liabilities Total Assets (missing flag)
+Var_21_missing_flag,2.5290795571006828,Liabilities Current Total (missing flag)
+Var_19,2.5265361955379424,IFRS_Equity And Liabilities Total
+Var_22,2.4173310370929197,Net Profit
+Var_02_missing_flag,2.39330302463696,Assets Total (missing flag)
+Var_14_missing_flag,2.3723323622434522,Gross Profit (missing flag)
+Var_13_missing_flag,2.206102294353623,Financial Leverage (missing flag)
+Var_30_missing_flag,1.816909984349352,Sales Excluding VAT (missing flag)
+Var_37_missing_flag,1.7745827652831383,Total Net Debt EBITDA (missing flag)
+Var_03_missing_flag,1.3975532050718111,Cash And Cash Equivalents (missing flag)
+Var_26_missing_flag,1.3021577651675125,Receivables Current (missing flag)
+Var_06_missing_flag,1.22250736472944,Depreciation And Impairment (missing flag)
+Var_17_missing_flag,1.2151274805786552,IFRS_Assets Non Current Total (missing flag)
+Var_38_missing_flag,1.1677442683314632,Trade And Other Payables Current (missing flag)
+Var_05,1.111123378478952,Debt Net Worth
+Var_13,1.1068398178818923,Financial Leverage
+Var_23,1.1020880590667488,Net Profit Margin
+Var_07,1.100835001707439,EBITDA Margin
+Var_20_missing_flag,1.0343002406146384,Interest Expense (missing flag)
+Var_28,1.0071969392166598,Return On Total Equity Reserve
+Var_35,1.0044829204649868,Total Liabilities Total Assets
+Var_33,1.002106007318541,Senior Net Debt EBITDA
+Var_15,1.000603268536999,Gross Profit Margin
+Var_04,0.9999863004389848,Current Ratio
+Var_28_missing_flag,0.9824310687393835,Return On Total Equity Reserve (missing flag)

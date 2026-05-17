@@ -1,45 +1,40 @@
 feature,feature_name,iv,quality_score,status,n_bins
-Var_02,Assets Total,4.703760307949361,,OPTIMAL,7
-Var_39,Working Capital,4.292729695504426,,OPTIMAL,12
-Var_34,Tangible Net Worth,4.176578504633881,,OPTIMAL,13
-Var_24,Profit Loss Before Tax,3.4545556550513004,,OPTIMAL,14
-Var_17,IFRS_Assets Non Current Total,2.9074223583900802,,OPTIMAL,10
-Var_36,Total Net Debt,2.7531873586251483,,OPTIMAL,13
-Var_21,Liabilities Current Total,2.689938372063035,,OPTIMAL,13
-Var_26,Receivables Current,2.47344108898542,,OPTIMAL,11
-Var_29,Revenues,2.389012776176023,,OPTIMAL,13
-Var_03,Cash And Cash Equivalents,2.3353596677779733,,OPTIMAL,10
-Var_06,Depreciation And Impairment,2.0414035106126214,,OPTIMAL,7
-Var_20,Interest Expense,2.0394377163711415,,OPTIMAL,8
-Var_28,Return On Total Equity Reserve,0.26541631612776395,,OPTIMAL,10
-Var_04,Current Ratio,0.10668548078342595,,OPTIMAL,10
-Var_15,Gross Profit Margin,0.10221838390677483,,OPTIMAL,10
-Var_35,Total Liabilities Total Assets,0.055424060779377234,,OPTIMAL,7
-Var_05,Debt Net Worth,0.04925317412862176,,OPTIMAL,5
-Var_06_missing_flag,Depreciation And Impairment (missing flag),0.04549285925813784,,OPTIMAL,2
-Var_07,EBITDA Margin,0.043561209732053165,,OPTIMAL,10
-Var_13,Financial Leverage,0.013648491070358437,,OPTIMAL,2
-Var_38_missing_flag,Trade And Other Payables Current (missing flag),0.010841607805365503,,OPTIMAL,2
-Var_28_missing_flag,Return On Total Equity Reserve (missing flag),0.010218980572229325,,OPTIMAL,2
-Var_20_missing_flag,Interest Expense (missing flag),0.0031182440892555613,,OPTIMAL,2
-Var_02_missing_flag,Assets Total (missing flag),0.0,,OPTIMAL,2
-Var_11_missing_flag,Equity And Liabilities Total (missing flag),0.0,,OPTIMAL,2
+Var_19,IFRS_Equity And Liabilities Total,4.7014799469215305,,OPTIMAL,6
+Var_39,Working Capital,4.247176810434801,,OPTIMAL,11
+Var_22,Net Profit,3.2660775802077118,,OPTIMAL,16
+Var_21,Liabilities Current Total,2.5992763510364494,,OPTIMAL,13
+Var_26,Receivables Current,2.3949630128376382,,OPTIMAL,12
+Var_03,Cash And Cash Equivalents,2.3420235142857297,,OPTIMAL,8
+Var_06,Depreciation And Impairment,1.976249199730275,,OPTIMAL,7
+Var_20,Interest Expense,1.9629519988504402,,OPTIMAL,7
+Var_28,Return On Total Equity Reserve,0.2667408965732411,,OPTIMAL,10
+Var_15,Gross Profit Margin,0.10445050071732356,,OPTIMAL,11
+Var_04,Current Ratio,0.1016003446383352,,OPTIMAL,7
+Var_33,Senior Net Debt EBITDA,0.06879529267483638,,OPTIMAL,11
+Var_23,Net Profit Margin,0.06779928079362843,,OPTIMAL,9
+Var_35,Total Liabilities Total Assets,0.06402597477738632,,OPTIMAL,9
+Var_07,EBITDA Margin,0.04867504702722019,,OPTIMAL,8
+Var_06_missing_flag,Depreciation And Impairment (missing flag),0.041037895466617715,,OPTIMAL,2
+Var_05,Debt Net Worth,0.04050613198423884,,OPTIMAL,5
+Var_38_missing_flag,Trade And Other Payables Current (missing flag),0.012974712863416255,,OPTIMAL,2
+Var_28_missing_flag,Return On Total Equity Reserve (missing flag),0.010374297179620304,,OPTIMAL,2
+Var_20_missing_flag,Interest Expense (missing flag),0.003700540524654399,,OPTIMAL,2
 Var_03_missing_flag,Cash And Cash Equivalents (missing flag),0.0,,OPTIMAL,2
-Var_08_missing_flag,Earnings Before Interest And Tax (missing flag),0.0,,OPTIMAL,2
+Var_02_missing_flag,Assets Total (missing flag),0.0,,OPTIMAL,2
+Var_01_missing_flag,Assets Current Total (missing flag),0.0,,OPTIMAL,2
+Var_10_missing_flag,Eff Tang Net Worth Actual (missing flag),0.0,,OPTIMAL,2
 Var_09_missing_flag,Earnings Before Interest Tax And Depreciation (missing flag),0.0,,OPTIMAL,2
-Var_14_missing_flag,Gross Profit (missing flag),0.0,,OPTIMAL,2
-Var_13_missing_flag,Financial Leverage (missing flag),0.0,,OPTIMAL,2
+Var_08_missing_flag,Earnings Before Interest And Tax (missing flag),0.0,,OPTIMAL,2
 Var_12_missing_flag,Equity And Reserves (missing flag),0.0,,OPTIMAL,2
 Var_17_missing_flag,IFRS_Assets Non Current Total (missing flag),0.0,,OPTIMAL,2
 Var_21_missing_flag,Liabilities Current Total (missing flag),0.0,,OPTIMAL,2
-Var_24_missing_flag,Profit Loss Before Tax (missing flag),0.0,,OPTIMAL,2
+Var_14_missing_flag,Gross Profit (missing flag),0.0,,OPTIMAL,2
+Var_13_missing_flag,Financial Leverage (missing flag),0.0,,OPTIMAL,2
 Var_26_missing_flag,Receivables Current (missing flag),0.0,,OPTIMAL,2
-Var_16_missing_flag,IFRS_Assets Current Total (missing flag),0.0,,OPTIMAL,2
-Var_27_missing_flag,Return On Assets (missing flag),0.0,,OPTIMAL,2
-Var_29_missing_flag,Revenues (missing flag),0.0,,OPTIMAL,2
-Var_31_missing_flag,Sales Total Assets (missing flag),0.0,,OPTIMAL,2
+Var_24_missing_flag,Profit Loss Before Tax (missing flag),0.0,,OPTIMAL,2
 Var_30_missing_flag,Sales Excluding VAT (missing flag),0.0,,OPTIMAL,2
-Var_34_missing_flag,Tangible Net Worth (missing flag),0.0,,OPTIMAL,2
+Var_27_missing_flag,Return On Assets (missing flag),0.0,,OPTIMAL,2
+Var_31_missing_flag,Sales Total Assets (missing flag),0.0,,OPTIMAL,2
 Var_35_missing_flag,Total Liabilities Total Assets (missing flag),0.0,,OPTIMAL,2
 Var_37_missing_flag,Total Net Debt EBITDA (missing flag),0.0,,OPTIMAL,2
 Var_39_missing_flag,Working Capital (missing flag),0.0,,OPTIMAL,2

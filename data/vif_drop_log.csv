@@ -1,29 +1,36 @@
 iteration,dropped_feature,dropped_feature_name,vif_before_drop,remaining_after_drop
-1,Var_19,IFRS_Equity And Liabilities Total,2372813291554.529,74
-2,Var_18,IFRS_Assets Total,450359962737049.6,73
+1,Var_18,IFRS_Assets Total,1020183401828.179,74
+2,Var_32,Senior Net Debt,52673679852286.5,73
 3,Var_01,Assets Current Total,inf,72
 4,Var_16,IFRS_Assets Current Total,inf,71
 5,Var_14,Gross Profit,inf,70
-6,Var_10,Eff Tang Net Worth Actual,inf,69
-7,Var_25_missing_flag,Quick Ratio (missing flag),1534647.4245859452,68
-8,Var_11,Equity And Liabilities Total,548825.2741705999,67
-9,Var_01_missing_flag,Assets Current Total (missing flag),659875.8216020502,66
-10,Var_25,Quick Ratio,74929.30168502721,65
-11,Var_36_missing_flag,Total Net Debt (missing flag),3084.529237917839,64
-12,Var_19_missing_flag,IFRS_Equity And Liabilities Total (missing flag),2049.9044274493817,63
-13,Var_10_missing_flag,Eff Tang Net Worth Actual (missing flag),37605.00083402267,62
-14,Var_18_missing_flag,IFRS_Assets Total (missing flag),1932.6718680355593,61
-15,Var_37,Total Net Debt EBITDA,1233.0025838144718,60
-16,Var_33_missing_flag,Senior Net Debt EBITDA (missing flag),537.2358767464852,59
-17,Var_22,Net Profit,316.13880436706364,58
-18,Var_09,Earnings Before Interest Tax And Depreciation,229.33193282201353,57
-19,Var_31,Sales Total Assets,91.53442818510855,56
-20,Var_08,Earnings Before Interest And Tax,78.77333149944339,55
-21,Var_32_missing_flag,Senior Net Debt (missing flag),64.35122478361355,54
-22,Var_32,Senior Net Debt,39.63335493716182,53
-23,Var_38,Trade And Other Payables Current,27.717469892516764,52
-24,Var_05_missing_flag,Debt Net Worth (missing flag),23.743659525810653,51
-25,Var_12,Equity And Reserves,19.97088357447717,50
-26,Var_30,Sales Excluding VAT,16.412174173343843,49
-27,Var_04_missing_flag,Current Ratio (missing flag),13.729939141234448,48
-28,Var_22_missing_flag,Net Profit (missing flag),11.301170057841595,47
+6,Var_38,Trade And Other Payables Current,inf,69
+7,Var_12,Equity And Reserves,inf,68
+8,Var_09,Earnings Before Interest Tax And Depreciation,inf,67
+9,Var_10,Eff Tang Net Worth Actual,inf,66
+10,Var_11_missing_flag,Equity And Liabilities Total (missing flag),inf,65
+11,Var_17,IFRS_Assets Non Current Total,inf,64
+12,Var_19_missing_flag,IFRS_Equity And Liabilities Total (missing flag),inf,63
+13,Var_05_missing_flag,Debt Net Worth (missing flag),inf,62
+14,Var_08,Earnings Before Interest And Tax,inf,61
+15,Var_34,Tangible Net Worth,inf,60
+16,Var_36_missing_flag,Total Net Debt (missing flag),inf,59
+17,Var_29_missing_flag,Revenues (missing flag),inf,58
+18,Var_29,Revenues,inf,57
+19,Var_32_missing_flag,Senior Net Debt (missing flag),inf,56
+20,Var_18_missing_flag,IFRS_Assets Total (missing flag),inf,55
+21,Var_36,Total Net Debt,inf,54
+22,Var_25_missing_flag,Quick Ratio (missing flag),inf,53
+23,Var_22_missing_flag,Net Profit (missing flag),inf,52
+24,Var_16_missing_flag,IFRS_Assets Current Total (missing flag),inf,51
+25,Var_30,Sales Excluding VAT,inf,50
+26,Var_34_missing_flag,Tangible Net Worth (missing flag),inf,49
+27,Var_33_missing_flag,Senior Net Debt EBITDA (missing flag),inf,48
+28,Var_11,Equity And Liabilities Total,inf,47
+29,Var_25,Quick Ratio,21308014.43984064,46
+30,Var_02,Assets Total,599447.2228403725,45
+31,Var_24,Profit Loss Before Tax,256.43457274676683,44
+32,Var_31,Sales Total Assets,220.7034271489378,43
+33,Var_27,Return On Assets,43.49404726335307,42
+34,Var_37,Total Net Debt EBITDA,30.071517739778,41
+35,Var_04_missing_flag,Current Ratio (missing flag),17.35578973285301,40
