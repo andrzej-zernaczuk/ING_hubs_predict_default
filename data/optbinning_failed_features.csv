@@ -1,6 +1,6 @@
 feature,feature_name,error
-Var_13,Financial Leverage,"__radd__(): incompatible function arguments. The following argument types are supported:
+Var_05,Debt Net Worth,"__radd__(): incompatible function arguments. The following argument types are supported:
     1. (self: object, cst: int) -> ortools.sat.python.cp_model_helper.LinearExpr
     2. (self: object, cst: float) -> ortools.sat.python.cp_model_helper.LinearExpr
 
-Invoked with: SumArray(IntAffine(expr=x[6, 0](0..1), coeff=-12769, offset=0), IntAffine(expr=x[6, 1](0..1), coeff=10385, offset=0), IntAffine(expr=x[6, 2](0..1), coeff=4831, offset=0), IntAffine(expr=x[6, 3](0..1), coeff=7429, offset=0), IntAffine(expr=x[6, 4](0..1), coeff=389, offset=0), IntAffine(expr=x[6, 5](0..1), coeff=2168, offset=0)), IntConstant(0)"
+Invoked with: SumArray(IntAffine(expr=x[10, 0](0..1), coeff=-2589, offset=0), IntAffine(expr=x[10, 1](0..1), coeff=-7449, offset=0), IntAffine(expr=x[10, 2](0..1), coeff=-4462, offset=0), IntAffine(expr=x[10, 3](0..1), coeff=-515, offset=0), IntAffine(expr=x[10, 4](0..1), coeff=12547, offset=0), IntAffine(expr=x[10, 5](0..1), coeff=2633, offset=0), IntAffine(expr=x[10, 6](0..1), coeff=902, offset=0), IntAffine(expr=x[10, 7](0..1), coeff=-717, offset=0), IntAffine(expr=x[10, 8](0..1), coeff=-898, offset=0), IntAffine(expr=x[10, 9](0..1), coeff=1622, offset=0)), IntConstant(0)"

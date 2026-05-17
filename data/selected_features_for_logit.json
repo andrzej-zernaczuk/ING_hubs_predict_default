@@ -1,33 +1,32 @@
 {
   "selected_features": [
-    "Var_19",
+    "Var_02",
     "Var_28",
-    "Var_15",
     "Var_04",
-    "Var_33",
-    "Var_23",
+    "Var_15",
     "Var_35",
-    "Var_07",
+    "Var_23",
+    "Var_33",
     "Var_06_missing_flag",
-    "Var_05"
+    "Var_07"
   ],
   "selected_features_readable": [
-    "IFRS_Equity And Liabilities Total",
+    "Assets Total",
     "Return On Total Equity Reserve",
-    "Gross Profit Margin",
     "Current Ratio",
-    "Senior Net Debt EBITDA",
-    "Net Profit Margin",
+    "Gross Profit Margin",
     "Total Liabilities Total Assets",
-    "EBITDA Margin",
+    "Net Profit Margin",
+    "Senior Net Debt EBITDA",
     "Depreciation And Impairment (missing flag)",
-    "Debt Net Worth"
+    "EBITDA Margin"
   ],
   "settings": {
     "corr_threshold": 0.7,
     "vif_threshold": 10.0,
     "iv_min": 0.02,
     "final_features_min": 8,
-    "final_features_max": 15
+    "final_features_max": 15,
+    "modeling_split_strategy": "out_of_time"
   }
 }
