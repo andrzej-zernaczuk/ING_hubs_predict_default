@@ -28,5 +28,10 @@
     "final_features_min": 8,
     "final_features_max": 15,
     "modeling_split_strategy": "out_of_time"
+  },
+  "exported_logit_datasets": {
+    "out_of_sample": "logit_selected_woe_dataset_out_of_sample.csv",
+    "out_of_time": "logit_selected_woe_dataset_out_of_time.csv",
+    "count": 2
   }
 }
