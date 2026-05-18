@@ -1,0 +1,9 @@
+feature,readable_name,mean_abs_shap,direction,"corr(feat,shap)"
+Var_02,Assets Total,0.6519,~ non-linear / complex relationship,0.027
+Var_11,Var_11,0.2162,~ non-linear / complex relationship,0.031
+Var_18,Var_18,0.10775,~ non-linear / complex relationship,0.027
+Var_25,Var_25,0.08864,~ non-linear / complex relationship,0.031
+Var_12,Var_12,0.05585,~ non-linear / complex relationship,0.081
+Var_19,Var_19,0.05499,~ non-linear / complex relationship,0.028
+Var_39,Working Capital,0.04755,~ non-linear / complex relationship,0.074
+Var_04,Current Ratio,0.04687,~ non-linear / complex relationship,0.013

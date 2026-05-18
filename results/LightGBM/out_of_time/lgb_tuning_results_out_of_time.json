@@ -1,0 +1,24 @@
+{
+  "split_strategy": "out_of_time",
+  "n_trials_completed": 200,
+  "best_params": {
+    "max_depth": 8,
+    "n_estimators": 1400,
+    "learning_rate": 0.01493619245218621,
+    "num_leaves": 55,
+    "min_child_samples": 123,
+    "subsample": 0.9297349125863826,
+    "colsample_bytree": 0.8126607109217786,
+    "reg_alpha": 0.006104322698907476,
+    "reg_lambda": 0.0034088983097926985
+  },
+  "best_f1_validation": 0.6584,
+  "optimal_threshold": 0.51,
+  "test_metrics": {
+    "auc_roc": 0.9590492094958843,
+    "f1": 0.5975820379965457,
+    "precision": 0.6653846153846154,
+    "recall": 0.542319749216301,
+    "threshold": 0.51
+  }
+}
